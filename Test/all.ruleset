@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="TestRules" ToolsVersion="14.0">
+    <Rules AnalyzerId="Roslynator.Analyzers" RuleNamespace="Roslynator.Analyzers">
+        <Rule Id="RCS1151" Action="Error" />
+        <Rule Id="RCS1201" Action="Error" />
+    </Rules>
+</RuleSet>
